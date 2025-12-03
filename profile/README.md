@@ -9,7 +9,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Raycast_App_Icon.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/raycast">
+<a href="https://mac-apps-install.github.io/.github/raycast">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
